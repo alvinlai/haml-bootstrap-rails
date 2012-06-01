@@ -1,4 +1,4 @@
-source :gemcutter
+source 'http://rubygems.org'
 
-# Specify your gem's dependencies in haml-rails.gemspec
+# Specify your gem's dependencies in haml-bootstrap-rails.gemspec
 gemspec

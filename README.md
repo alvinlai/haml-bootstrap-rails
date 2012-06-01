@@ -1,10 +1,10 @@
-# Haml-rails
+# Haml-bootstrap-rails
 
-Haml-rails provides Haml generators for Rails 3. It also enables Haml as the templating engine for you, so you don't have to screw around in your own application.rb when your Gemfile already clearly indicated what templating engine you have installed. Hurrah.
+Haml-bootstrap-rails provides Haml generators for Rails 3. It also enables Haml as the templating engine for you, so you don't have to screw around in your own application.rb when your Gemfile already clearly indicated what templating engine you have installed. Hurrah.
 
 To use it, add this line to your Gemfile:
 
-    gem "haml-rails"
+    gem "haml-bootstrap-rails"
 
 Pretty fancy, eh?
 
@@ -12,7 +12,7 @@ Once you've done that, any time you generate a controller or scaffold, you'll ge
 
 ### Contributors
 
-Haml generators originally from [rails3-generators](http://github.com/indirect/rails3-generators), and written by José Valim, André Arko, Paul Barry, Anuj Dutta, Louis T, and Chris Rhoden. Tests originally written by Louis T.
+Haml generators originally from [haml-rails](http://github.com/indirect/haml-rails) and [rails3-generators](http://github.com/indirect/rails3-generators), and written by José Valim, André Arko, Paul Barry, Anuj Dutta, Louis T, Chris Rhoden. Tests originally written by Louis T.
 
 ### License
 
